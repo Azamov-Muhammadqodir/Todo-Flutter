@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Muhammadqodir\AppData\Local\Pub\Cache\hosted\pub.dev\record_android-1.3.1\android"
+    name=":record_android"
+    type="LIBRARY"
+    maven="com.llfbandit.record:record_android:"
+    agpVersion="8.2.1"
+    buildFolder="D:\Flutter apks\ToDo\build\record_android"
+    bootClassPath="C:\Users\Muhammadqodir\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Muhammadqodir\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
